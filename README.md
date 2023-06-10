@@ -1,2 +1,2 @@
 # Hello-World
-The Jorney starts
+The Journey starts
